@@ -1,0 +1,32 @@
+Adafruit METRO M0 						€20.83
+https://www.adafruit.com/product/3505
+
+Adafruit RGB Matrix Shield					€4.97
+https://www.adafruit.com/product/2601
+
+32x32 RGB LED Matrix						€29.18
+https://www.adafruit.com/product/2026
+
+9 pin controller socket						€4.11
+https://www.zedlabz.com/collections/retro-sega-master-system/products/controller-connector-for-sega-megadrive-master-system-9-pin-socket-port-replacement-2-pack-black-zedlabz?variant=31233188757606
+
+Arcade Button							€4.97
+https://www.adafruit.com/product/471
+
+120pcs Breadboard Jumper Wires				€5.53
+https://www.amazon.com/REXQualis-120pcs-Breadboard-Arduino-Raspberry/dp/B072L1XMJR/ref=sr_1_1_sspa?dchild=1&keywords=Arduino+Wire&qid=1603546769&sr=8-1-spons&psc=1
+
+Power Supply							€17.05
+https://www.amazon.com/Arcity-Switching-Adjustable-Cocktail-Horizontal/dp/B08PNQCDB4?pd_rd_w=Nmb6k&pf_rd_p=3b2464be-88ad-4bc6-b457-b3c351da1533&pf_rd_r=YZJ492ZB6N9CR61NNVR3&pd_rd_r=9d5256b0-286b-450f-98e8-7e8845775fcb&pd_rd_wg=QvXFI&pd_rd_i=B08PNQCDB4&psc=1&ref_=pd_bap_d_rp_1_t
+
+fan									€2.98
+https://www.amazon.com/Kingwin-CF-08LB-Efficient-Excellent-Ventilation/dp/B002YFSHPY/ref=sr_1_3?dchild=1&keywords=80mm+pc+fan&qid=1618668472&sr=8-3
+
+USB Micro-B Breakout Board					€1.25
+https://www.adafruit.com/product/1833
+
+USB A/Micro Cable - 2m					€4.13
+https://www.adafruit.com/product/2185
+
+22AWG Silicone Hook Up Wire				€13.60
+https://www.amazon.com/22GA-Hook-Wire-Kit-Electrical/dp/B07T4SYVYG/ref=sr_1_1?dchild=1&keywords=plusivo+hook+up+kit&qid=1618668892&sr=8-1
