@@ -22,5 +22,4 @@ a game-console built on a adafruit metro m0 with an 32x32 rgb matrix and origina
   -@robbelauwers_2810 `(instagram)`
   -@misc_anony_mous
 
-## Donations
-  -3Ar4vzdVhfomffr83aHHUrQyRfp4WSYCxY (!BTC ONLY!)
+
