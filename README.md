@@ -3,15 +3,8 @@ a game-console built on a adafruit metro m0 with an 32x32 rgb matrix and origina
 
 ## The project
   I made this for my thesis project (10'th grade).
-
-  It was fully built and coded by myself, i worked about 5 months on this project.
-  I only used one library, RGBmatrixPanel this library is used to control the display.
-
-
-
-
-
-
+  
+  Its still a beta ofcourse, if people actually like it ill keep updating it.
 
 ## Ideas?
   If you have any ideas for things i could add to this game-console?
