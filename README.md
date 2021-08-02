@@ -18,8 +18,8 @@ a game-console built on a adafruit metro m0 with an 32x32 rgb matrix and origina
   Feel free to contact me!
   
 ## Contact
-  -robbe.lauwers2810@gmail.com `(email)`
-  -@robbelauwers_2810 `(instagram)`
+  -robbe.lauwers2810@gmail.com `(email)` \n
+  -@robbelauwers_2810 `(instagram)` \n
   -@misc_anony_mous
 
 
